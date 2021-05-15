@@ -580,7 +580,11 @@
 			}
 		},
 		{
-			"scope": "entity.name.function, support.function",
+			"scope": [
+				"entity.name.function",
+				"variable.function",
+				"meta.function-call"
+			],
 			"settings": {
 				"foreground": "#82AAFF"
 			}
