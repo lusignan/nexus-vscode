@@ -203,7 +203,7 @@
 		"terminalCursor.foreground": "#ffcb6b",
 		"terminal.foreground": "#8991AC",
 		"textLink.activeForeground": "#9EA5C1",
-		"textLink.foreground": "#67C1B8",
+		"textLink.foreground": "#75C7BF",
 		"titleBar.activeBackground": "#1A1C25",
 		"titleBar.activeForeground": "#9EA5C1",
 		"titleBar.border": "#00000060",
@@ -301,7 +301,7 @@
 		//"editorUnnecessaryCode.opacity": "#000000aa",
 		//"editorWidget.foreground": "#9EA5C1",
 		//"errorForeground": "#f48771",
-		//"extensionBadge.remoteBackground": "#67C1B8",
+		//"extensionBadge.remoteBackground": "#75C7BF",
 		//"extensionIcon.starForeground": "#ff8e00",
 		//"gitDecoration.addedResourceForeground": "#81b88b",
 		//"gitDecoration.renamedResourceForeground": "#73c991",
@@ -334,7 +334,7 @@
 		//"minimapGutter.addedBackground": "#587c0c",
 		//"minimapGutter.deletedBackground": "#94151b",
 		//"minimapGutter.modifiedBackground": "#0c7d9d",
-		//"minimapSlider.activeBackground": "#67C1B880",
+		//"minimapSlider.activeBackground": "#75C7BF80",
 		//"minimapSlider.background": "#8f93a210",
 		//"minimapSlider.hoverBackground": "#8f93a208",
 		//"notebook.cellBorderColor": "#00000030",
@@ -350,7 +350,7 @@
 		//"notebook.selectedCellBackground": "#00000030",
 		//"notebook.selectedCellBorder": "#00000030",
 		//"notebook.symbolHighlightBackground": "#ffffff0b",
-		//"notebookScrollbarSlider.activeBackground": "#67C1B8",
+		//"notebookScrollbarSlider.activeBackground": "#75C7BF",
 		//"notebookScrollbarSlider.background": "#8f93a220",
 		//"notebookScrollbarSlider.hoverBackground": "#8f93a210",
 		//"notebookStatusErrorIcon.foreground": "#f48771",
@@ -381,7 +381,7 @@
 		//"searchEditor.textInputBorder": "#ffffff10",
 		//"settings.checkboxBorder": "#ffffff10",
 		//"settings.dropdownBorder": "#ffffff10",
-		//"settings.dropdownListBorder": "#67C1B8",
+		//"settings.dropdownListBorder": "#75C7BF",
 		//"settings.focusedRowBackground": "#80808024",
 		//"settings.numberInputBorder": "#ffffff10",
 		//"settings.textInputBorder": "#ffffff10",
@@ -457,7 +457,7 @@
 		//"textSeparator.foreground": "#ffffff2e",
 		//"tree.tableColumnsBorder": "#cccccc20",
 		//"welcomePage.progress.background": "#1a1c25",
-		//"welcomePage.progress.foreground": "#67C1B8",
+		//"welcomePage.progress.foreground": "#75C7BF",
 		//"welcomePage.tileBackground": "#1A1C25",
 		//"welcomePage.tileHoverBackground": "#0b0d13",
 		//"welcomePage.tileShadow.": "#00000030",
@@ -959,7 +959,7 @@
 				"support.function"
 			],
 			"settings": {
-				"foreground": "#67C1B8"
+				"foreground": "#75c7bf"
 			}
 		},
 		{
