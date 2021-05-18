@@ -3,7 +3,7 @@
     "displayName": "Nexus",
     "description": "A remix of the material theme",
     "publisher": "lusignan",
-    "version": "0.0.8",
+    "version": "0.0.9",
     "engines": {
         "vscode": "^1.53.0"
     },
