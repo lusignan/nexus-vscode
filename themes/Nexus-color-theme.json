@@ -203,7 +203,7 @@
 		"terminalCursor.foreground": "#ffcb6b",
 		"terminal.foreground": "#8991AC",
 		"textLink.activeForeground": "#9EA5C1",
-		"textLink.foreground": "#6FDCB7",
+		"textLink.foreground": "#89ddff",
 		"titleBar.activeBackground": "#1A1C25",
 		"titleBar.activeForeground": "#9EA5C1",
 		"titleBar.border": "#00000060",
@@ -862,7 +862,7 @@
 		{
 			"scope": "source.python meta.member.access.python",
 			"settings": {
-				"foreground": "#F07178"
+				"foreground": "#F88792"
 			}
 		},
 		{
