@@ -1,8 +1,14 @@
 # README
 This theme is a slight variation of the [Material Theme](https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-material-theme) with some Python focused modifications. Everyone is welcome to it but it was built for my personal use and so may change dramatically and without warning.
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+
+## Screenshots
+
+### Python Notebook
+![Notebook Example](img/notebook-example.png)
+
+### Acknowledgements
+* [Material](https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-material-theme)
+* [One Dark Pro](https://marketplace.visualstudio.com/items?itemName=akamud.vscode-theme-onedark)
 
 **Enjoy!**
