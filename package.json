@@ -1,7 +1,7 @@
 {
     "name": "nexus",
     "displayName": "Nexus",
-    "description": "A variation of the material theme",
+    "description": "A dark grey theme based on Material and Ariake Dark",
     "publisher": "lusignan",
     "version": "0.0.18",
     "engines": {

@@ -10,5 +10,6 @@ This theme is a slight variation of the [Material Theme](https://marketplace.vis
 ### Acknowledgements
 * [Material](https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-material-theme)
 * [One Dark Pro](https://marketplace.visualstudio.com/items?itemName=akamud.vscode-theme-onedark)
+* [Ariake Dark](https://marketplace.visualstudio.com/items?itemName=wart.ariake-dark)
 
 **Enjoy!**
