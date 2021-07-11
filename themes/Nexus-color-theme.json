@@ -627,7 +627,7 @@
 				"keyword.other.preprocessor.extension.haskell"
 			],
 			"settings": {
-				"foreground": "#807DDD"
+				"foreground": "#BB8EFF"
 			}
 		},
 		{
@@ -646,7 +646,7 @@
 		{
 			"scope": "entity.name.type, entity.other.inherited-class, entity.other",
 			"settings": {
-				"foreground": "#D89EF3"
+				"foreground": "#BB8EFF"
 			}
 		},
 		{
@@ -672,7 +672,7 @@
 		{
 			"scope": "entity.name, entity.name.type.class, support.type, support.class, meta.use",
 			"settings": {
-				"foreground": "#D89EF3"
+				"foreground": "#BB8EFF"
 			}
 		},
 		{
@@ -762,7 +762,7 @@
 		{
 			"scope": "entity.other.attribute-name",
 			"settings": {
-				"foreground": "#D89EF3"
+				"foreground": "#BB8EFF"
 			}
 		},
 		{
@@ -982,7 +982,7 @@
 				"keyword.operator.eq.haskell"
 			],
 			"settings": {
-				"foreground": "#D89EF3"
+				"foreground": "#BB8EFF"
 			}
 		},
 		{
@@ -1007,7 +1007,7 @@
 				"support.class.component"
 			],
 			"settings": {
-				"foreground": "#D89EF3"
+				"foreground": "#EBA6EA"
 			}
 		},
 		{
@@ -1045,7 +1045,7 @@
 				"meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#D89EF3"
+				"foreground": "#BB8EFF"
 			}
 		},
 		{
@@ -1101,7 +1101,7 @@
 				"meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#D89EF3"
+				"foreground": "#BB8EFF"
 			}
 		},
 		{
