@@ -560,7 +560,9 @@
 				"support.function.aggregate.sql",
 				"meta.function",
 				"source.python meta.function-call.python",
-				"entity.name.function.call"
+				"entity.name.function.call",
+				"variable.function.r",
+				"meta.function-call.r"
 			],
 			"settings": {
 				"foreground": "#94DEFF",
@@ -588,7 +590,7 @@
 		{
 			"scope": "constant.numeric",
 			"settings": {
-				"foreground": "#fb9c7b"
+				"foreground": "#FF987B"
 			}
 		},	
 		{
@@ -611,7 +613,7 @@
 				"constant.language"
 			],
 			"settings": {
-				"foreground": "#FFBEC3"
+				"foreground": "#FFCBCF"
 			}
 		},
 		{
@@ -695,7 +697,7 @@
 			}
 		},
 		{
-			"scope": "meta.definition.method entity.name.function",
+			"scope": ["meta.definition.method entity.name.function", "entity.namespace.r"],
 			"settings": {
 				"foreground": "#EAF9FF"
 			}
@@ -739,7 +741,7 @@
 		{
 			"scope": "entity.other.attribute-name.id",
 			"settings": {
-				"foreground": "#FB9C7B"
+				"foreground": "#FF987B"
 			}
 		},
 		{
@@ -1050,7 +1052,7 @@
 				"meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#FB9C7B"
+				"foreground": "#FF987B"
 			}
 		},
 		{
