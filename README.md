@@ -1,6 +1,5 @@
 # README
-This theme is a slight variation of the [Material Theme](https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-material-theme) with some Python focused modifications. Everyone is welcome to it but it was built for my personal use and so may change dramatically and without warning.
-
+A dark grey theme with shades of cyan and purple built for Python. Theme is still in development and may change dramatically without warning.
 
 ## Screenshots
 
@@ -9,7 +8,7 @@ This theme is a slight variation of the [Material Theme](https://marketplace.vis
 
 ### Acknowledgements
 * [Material](https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-material-theme)
-* [One Dark Pro](https://marketplace.visualstudio.com/items?itemName=akamud.vscode-theme-onedark)
 * [Ariake Dark](https://marketplace.visualstudio.com/items?itemName=wart.ariake-dark)
+* [One Dark Pro](https://marketplace.visualstudio.com/items?itemName=akamud.vscode-theme-onedark)
 
 **Enjoy!**

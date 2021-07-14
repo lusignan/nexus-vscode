@@ -611,7 +611,7 @@
 				"constant.language"
 			],
 			"settings": {
-				"foreground": "#FFBCC6"
+				"foreground": "#FFBEC3"
 			}
 		},
 		{
@@ -625,7 +625,7 @@
 				"keyword.other"
 			],
 			"settings": {
-				"foreground": "#BB8EFF"
+				"foreground": "#B58BFF"
 			}
 		},
 		{
@@ -639,7 +639,7 @@
 				"keyword.other.preprocessor.extension.haskell"
 			],
 			"settings": {
-				"foreground": "#BB8EFF"
+				"foreground": "#B58BFF"
 			}
 		},
 		{
@@ -652,13 +652,13 @@
 		{
 			"scope": "support.type, constant.other.key",
 			"settings": {
-				"foreground": "#FBB1FC"
+				"foreground": "#FFB2FF"
 			}
 		},
 		{
 			"scope": "entity.name.type, entity.other.inherited-class, entity.other",
 			"settings": {
-				"foreground": "#BB8EFF"
+				"foreground": "#B58BFF"
 			}
 		},
 		{
@@ -685,7 +685,7 @@
 		{
 			"scope": "entity.name, entity.name.type.class, support.type, support.class, meta.use",
 			"settings": {
-				"foreground": "#BB8EFF"
+				"foreground": "#B58BFF"
 			}
 		},
 		{
@@ -733,7 +733,7 @@
 		{
 			"scope": "entity.other.attribute-name.class",
 			"settings": {
-				"foreground": "#FBB1FC"
+				"foreground": "#FFB2FF"
 			}
 		},
 		{
@@ -745,7 +745,7 @@
 		{
 			"scope": "source.css entity.name.tag",
 			"settings": {
-				"foreground": "#FBB1FC"
+				"foreground": "#FFB2FF"
 			}
 		},
 		{
@@ -769,7 +769,7 @@
 		{
 			"scope": "entity.other.attribute-name",
 			"settings": {
-				"foreground": "#BB8EFF"
+				"foreground": "#B58BFF"
 			}
 		},
 		{
@@ -844,7 +844,7 @@
 		{
 			"scope": "source.cs meta.class.identifier storage.type",
 			"settings": {
-				"foreground": "#FBB1FC"
+				"foreground": "#FFB2FF"
 			}
 		},
 		{
@@ -862,13 +862,13 @@
 		{
 			"scope": "source.cs storage.type",
 			"settings": {
-				"foreground": "#FBB1FC"
+				"foreground": "#FFB2FF"
 			}
 		},
 		{
 			"scope": "source.cs meta.method.return-type",
 			"settings": {
-				"foreground": "#FBB1FC"
+				"foreground": "#FFB2FF"
 			}
 		},
 		{
@@ -917,7 +917,7 @@
 		{
 			"scope": "constant.keyword",
 			"settings": {
-				"foreground": "#BB8EFF",
+				"foreground": "#B58BFF",
 				"fontStyle": "italic"
 			}
 		},
@@ -950,7 +950,7 @@
 				"keyword.control"
 			],
 			"settings": {
-				"foreground": "#BB8EFF",
+				"foreground": "#B58BFF",
 				"fontStyle": "italic"
 			}
 		},
@@ -970,7 +970,7 @@
 				"keyword.operator.eq.haskell"
 			],
 			"settings": {
-				"foreground": "#BB8EFF"
+				"foreground": "#B58BFF"
 			}
 		},
 		{
@@ -980,7 +980,7 @@
 				"support.function"
 			],
 			"settings": {
-				"foreground": "#93FAE7"
+				"foreground": "#91FAE1"
 			}
 		},
 		{
@@ -995,7 +995,7 @@
 				"support.class.component"
 			],
 			"settings": {
-				"foreground": "#FBB1FC"
+				"foreground": "#FFB2FF"
 			}
 		},
 		{
@@ -1034,7 +1034,7 @@
 				"meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#BB8EFF"
+				"foreground": "#B58BFF"
 			}
 		},
 		{
@@ -1090,7 +1090,7 @@
 				"meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#BB8EFF"
+				"foreground": "#B58BFF"
 			}
 		},
 		{
