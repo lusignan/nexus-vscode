@@ -556,14 +556,12 @@
 		{
 			"name": "Function",
 			"scope": ["entity.name.function",
-				"variable.function",
 				"meta.function-call",
 				"support.function.aggregate.sql",
 				"meta.function",
 				"source.python meta.function-call.python",
 				"meta.function-call.arguments",
-				"entity.name.function.call",
-
+				"entity.name.function.call"
 			],
 			"settings": {
 				"foreground": "#94DEFF",
