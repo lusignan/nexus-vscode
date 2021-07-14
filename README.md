@@ -5,7 +5,7 @@ This theme is a slight variation of the [Material Theme](https://marketplace.vis
 ## Screenshots
 
 ### Python Notebook
-![Notebook Example](img/notebook-example.png)
+![Notebook Example](img/notebook.png)
 
 ### Acknowledgements
 * [Material](https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-material-theme)
