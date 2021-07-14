@@ -4,11 +4,9 @@ A dark grey theme with shades of cyan and purple built for Python. Theme is stil
 ## Screenshots
 
 ### Python Notebook
-![Notebook Example](img/notebook.png)
+![Notebook Example](img/notebook_example.png)
 
 ### Acknowledgements
 * [Material](https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-material-theme)
 * [Ariake Dark](https://marketplace.visualstudio.com/items?itemName=wart.ariake-dark)
 * [One Dark Pro](https://marketplace.visualstudio.com/items?itemName=akamud.vscode-theme-onedark)
-
-**Enjoy!**
