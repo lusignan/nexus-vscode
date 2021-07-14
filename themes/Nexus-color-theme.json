@@ -560,7 +560,6 @@
 				"support.function.aggregate.sql",
 				"meta.function",
 				"source.python meta.function-call.python",
-				"meta.function-call.arguments",
 				"entity.name.function.call"
 			],
 			"settings": {
