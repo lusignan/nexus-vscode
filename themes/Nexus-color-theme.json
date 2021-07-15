@@ -624,17 +624,7 @@
 				"support.type.object",
 				"meta.import.haskell",
 				"meta.preprocessor.haskell",
-				"keyword.other"
-			],
-			"settings": {
-				"foreground": "#D4A0FF"
-			}
-		},
-		{
-			"scope": [
-				"storage.type",
-				"storage.modifier",
-				"storage.control",
+				"keyword.other",
 				"keyword.other.DDL.create.II.sql",
 				"keyword.other.DML.sql",				
 				"keyword.other.preprocessor.pragma.haskell",
@@ -645,9 +635,19 @@
 			}
 		},
 		{
+			"scope": [
+				"storage.type",
+				"storage.modifier",
+				"storage.control",
+			],
+			"settings": {
+				"foreground": "#96A0FF"
+			}
+		},
+		{
 			"scope": "support.module, support.node",
 			"settings": {
-				"foreground": "#ffd4a0",
+				"foreground": "#96A0FF",
 				"fontStyle": "italic"
 			}
 		},
@@ -699,7 +699,7 @@
 		{
 			"scope": ["meta.definition.method entity.name.function", "entity.namespace.r"],
 			"settings": {
-				"foreground": "#ffd4a0"
+				"foreground": "#96A0FF"
 			}
 		},
 		{
@@ -765,7 +765,7 @@
 		{
 			"scope": "entity.name.tag",
 			"settings": {
-				"foreground": "#ffd4a0"
+				"foreground": "#96A0FF"
 			}
 		},
 		{
@@ -900,7 +900,7 @@
 		{
 			"scope": "source.python meta.member.access.python",
 			"settings": {
-				"foreground": "#ffd4a0",
+				"foreground": "#96A0FF",
 				"fontStyle": "italic"
 			}
 		},
