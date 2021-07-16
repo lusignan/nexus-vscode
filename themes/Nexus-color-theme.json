@@ -601,7 +601,12 @@
 				"keyword.other.module.haskell",
 				"keyword.other.import.haskell",
 				"meta.import.haskell",
-				"keyword.other.deriving.haskell"
+				"keyword.other.deriving.haskell",
+				"keyword.operator.relation.julia",
+				"keyword.operator.arithmetic.julia",
+				"keyword.operator.dots.julia",
+				"keyword.operator.range.julia",
+				"keyword.operator.relation.types.julia"
 		],
 			"settings": {
 				"foreground": "#91D5FF",
