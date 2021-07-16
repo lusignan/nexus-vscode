@@ -606,7 +606,20 @@
 				"keyword.operator.arithmetic.julia",
 				"keyword.operator.dots.julia",
 				"keyword.operator.range.julia",
-				"keyword.operator.relation.types.julia"
+				"keyword.operator.relation.types.julia",
+				"keyword.operator.other.r",
+				"keyword.operator.arithmetic.r",
+				"keyword.operator.comparison.r",
+				"keyword.other.r",
+				"keyword.operator.infix.haskell",
+				"keyword.operator.key-value.rust",
+				"keyword.operator.comparison.rust",
+				"keyword.operator.range.rust",
+				"keyword.operator.access.dot.rust",
+				"keyword.operator.logical.rust",
+				"keyword.operator.namespace.rust",
+				"keyword.operator.dereference.rust",
+				"keyword.operator.borrow.and.rust"
 		],
 			"settings": {
 				"foreground": "#91D5FF",
