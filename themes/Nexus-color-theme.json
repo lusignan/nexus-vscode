@@ -641,13 +641,13 @@
 				"storage.control",
 			],
 			"settings": {
-				"foreground": "#96A0FF"
+				"foreground": "#8E98FF"
 			}
 		},
 		{
 			"scope": "support.module, support.node",
 			"settings": {
-				"foreground": "#96A0FF",
+				"foreground": "#8E98FF",
 				"fontStyle": "italic"
 			}
 		},
@@ -699,7 +699,7 @@
 		{
 			"scope": ["meta.definition.method entity.name.function", "entity.namespace.r"],
 			"settings": {
-				"foreground": "#96A0FF"
+				"foreground": "#8E98FF"
 			}
 		},
 		{
@@ -765,7 +765,7 @@
 		{
 			"scope": "entity.name.tag",
 			"settings": {
-				"foreground": "#96A0FF"
+				"foreground": "#8E98FF"
 			}
 		},
 		{
@@ -900,7 +900,7 @@
 		{
 			"scope": "source.python meta.member.access.python",
 			"settings": {
-				"foreground": "#96A0FF",
+				"foreground": "#8E98FF",
 				"fontStyle": "italic"
 			}
 		},
@@ -1019,7 +1019,7 @@
 				"variable.parameter"
 			],
 			"settings": {
-				"foreground": "#e8e1d0",
+				"foreground": "#E6DFCC",
 				"fontStyle": ""
 			}
 		},
