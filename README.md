@@ -10,7 +10,7 @@ A dark grey theme with shades of cyan and purple built for Python. Theme is stil
 ![React Example](img/react-preview.png)
 
 ### Julia
-![Julia Example](img/react-preview.png)
+![Julia Example](img/julia-preview.png)
 
 ### Rust
 ![Rust Example](img/rust-preview.png)
