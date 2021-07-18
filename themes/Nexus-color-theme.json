@@ -670,12 +670,6 @@
 			}
 		},
 		{
-			"scope": "support.type, constant.other.key",
-			"settings": {
-				"foreground": "#7CA3FE"
-			}
-		},
-		{
 			"scope": "entity.name.type, entity.other.inherited-class, entity.other",
 			"settings": {
 				"foreground": "#C9A0FF"
