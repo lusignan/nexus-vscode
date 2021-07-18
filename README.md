@@ -4,7 +4,16 @@ A dark grey theme with shades of cyan and purple built for Python. Theme is stil
 ## Screenshots
 
 ### Python Notebook
-![Notebook Example](img/notebook-example.png)
+![Notebook Example](img/notebook-preview.png)
+
+### Javascript
+![React Example](img/react-preview.png)
+
+### Julia
+![Julia Example](img/react-preview.png)
+
+### Rust
+![Rust Example](img/rust-preview.png)
 
 ### Acknowledgements
 * [Material](https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-material-theme)
