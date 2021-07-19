@@ -659,20 +659,20 @@
 				"storage.control",
 			],
 			"settings": {
-				"foreground": "#C9A0FF"
+				"foreground": "#C7A3FF"
 			}
 		},
 		{
 			"scope": "support.module, support.node",
 			"settings": {
-				"foreground": "#C9A0FF",
+				"foreground": "#C7A3FF",
 				"fontStyle": "italic"
 			}
 		},
 		{
 			"scope": "entity.name.type, entity.other.inherited-class, entity.other",
 			"settings": {
-				"foreground": "#C9A0FF"
+				"foreground": "#C7A3FF"
 			}
 		},
 		{
@@ -699,7 +699,7 @@
 		{
 			"scope": "entity.name, entity.name.type.class, support.type, support.class, meta.use",
 			"settings": {
-				"foreground": "#C9A0FF"
+				"foreground": "#C7A3FF"
 			}
 		},
 		{
@@ -711,7 +711,7 @@
 		{
 			"scope": ["meta.definition.method entity.name.function", "entity.namespace.r"],
 			"settings": {
-				"foreground": "#C9A0FF"
+				"foreground": "#C7A3FF"
 			}
 		},
 		{
@@ -779,13 +779,13 @@
 		{
 			"scope": "entity.name.tag",
 			"settings": {
-				"foreground": "#C9A0FF"
+				"foreground": "#C7A3FF"
 			}
 		},
 		{
 			"scope": "entity.other.attribute-name",
 			"settings": {
-				"foreground": "#C9A0FF"
+				"foreground": "#C7A3FF"
 			}
 		},
 		{
@@ -914,7 +914,7 @@
 		{
 			"scope": "source.python meta.member.access.python",
 			"settings": {
-				"foreground": "#C9A0FF",
+				"foreground": "#C7A3FF",
 				"fontStyle": "italic"
 			}
 		},
@@ -933,7 +933,7 @@
 		{
 			"scope": "constant.keyword",
 			"settings": {
-				"foreground": "#C9A0FF",
+				"foreground": "#C7A3FF",
 				"fontStyle": "italic"
 			}
 		},
@@ -986,7 +986,7 @@
 				"keyword.operator.eq.haskell"
 			],
 			"settings": {
-				"foreground": "#C9A0FF"
+				"foreground": "#C7A3FF"
 			}
 		},
 		{
@@ -1066,7 +1066,7 @@
 				"meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#C9A0FF"
+				"foreground": "#C7A3FF"
 			}
 		},
 		{
@@ -1106,7 +1106,7 @@
 				"meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#C9A0FF"
+				"foreground": "#C7A3FF"
 			}
 		},
 		{
