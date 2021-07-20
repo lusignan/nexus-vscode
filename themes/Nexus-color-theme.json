@@ -53,10 +53,10 @@
 		"editorHoverWidget.background": "#181A22",
 		"editorHoverWidget.border": "#ffffff10",
 		"editorIndentGuide.activeBackground": "#A5ADD480",
-		"editorIndentGuide.background": "#54596F60",
+		"editorIndentGuide.background": "#54597660",
 		"editorInfo.foreground": "#9AD5FF70",
 		"editorLineNumber.activeForeground": "#A5ADD480",
-		"editorLineNumber.foreground": "#54596F60",
+		"editorLineNumber.foreground": "#54597660",
 		"editorLink.activeForeground": "#A5ADD490",
 		"editorMarkerNavigation.background": "#A5ADD405",
 		"editorOverviewRuler.border": "#232631",
@@ -678,14 +678,14 @@
 		{
 			"scope": "comment",
 			"settings": {
-				"foreground": "#54596F",
+				"foreground": "#545976",
 				"fontStyle": "italic"
 			}
 		},
 		{
 			"scope": "comment punctuation.definition.comment, string.quoted.docstring",
 			"settings": {
-				"foreground": "#54596F",
+				"foreground": "#545976",
 				"fontStyle": "italic"
 			}
 		},
