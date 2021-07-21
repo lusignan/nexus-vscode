@@ -119,6 +119,8 @@
 		"menubar.selectionForeground": "#9AD5FF",
 		"notebook.cellEditorBackground": "#1E202A",
 		"notebook.cellBorderColor": "#1E202A",
+		"notebook.cellHoverBackground": "#181a22",
+		"notebook.focusedEditorBorder": "#A5ADD4",
 		"notificationLink.foreground": "#9AD5FF",
 		"notifications.background": "#1E202A",
 		"notifications.foreground": "#A5ADD4",
