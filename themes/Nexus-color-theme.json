@@ -704,8 +704,7 @@
 			"scope": ["entity.name",
 				"entity.name.type.class",
 				"support.type",
-				"meta.use",
-				"entity.name.powerquery"],
+				"meta.use"],
 			"settings": {
 				"foreground": "#C7A3FF"
 			}
@@ -737,7 +736,8 @@
 		{
 			"scope": ["entity.name.tag.yaml",
 				"entity.name.type.option.rust",
-				"entity.name.type.rust"],
+				"entity.name.type.rust",
+				"entity.name.powerquery"],
 			"settings": {
 				"foreground": "#84A2FF"
 			}
