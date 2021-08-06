@@ -3,7 +3,7 @@
     "displayName": "Nexus",
     "description": "A dark grey theme based on Material and Ariake Dark",
     "publisher": "lusignan",
-    "version": "0.3.15",
+    "version": "0.3.16",
     "engines": {
         "vscode": "^1.46.0"
     },
