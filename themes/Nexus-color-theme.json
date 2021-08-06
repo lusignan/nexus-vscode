@@ -94,7 +94,7 @@
 		"inputOption.activeBorder": "#A3A9D030",
 		"inputValidation.errorBorder": "#f07178",
 		"inputValidation.infoBorder": "#8BD3FF",
-		"inputValidation.warningBorder": "#FFD5D7",
+		"inputValidation.warningBorder": "#FFD2E3",
 		"list.activeSelectionBackground": "#1E1F26",
 		"list.activeSelectionForeground": "#8BD3FF",
 		"list.dropBackground": "#f0717880",
@@ -635,7 +635,7 @@
 				"constant.language"
 			],
 			"settings": {
-				"foreground": "#FFD5D7"
+				"foreground": "#FFD2E3"
 			}
 		},
 		{
@@ -1041,7 +1041,7 @@
 				"variable.parameter"
 			],
 			"settings": {
-				"foreground": "#E6DFCC",
+				"foreground": "#EBE3D5",
 				"fontStyle": ""
 			}
 		},
