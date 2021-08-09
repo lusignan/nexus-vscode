@@ -53,10 +53,10 @@
 		"editorHoverWidget.background": "#18191F",
 		"editorHoverWidget.border": "#E8F4FF10",
 		"editorIndentGuide.activeBackground": "#A3A9D080",
-		"editorIndentGuide.background": "#575B7060",
+		"editorIndentGuide.background": "#595C7560",
 		"editorInfo.foreground": "#91D1FF70",
 		"editorLineNumber.activeForeground": "#A3A9D080",
-		"editorLineNumber.foreground": "#575B7060",
+		"editorLineNumber.foreground": "#595C7560",
 		"editorLink.activeForeground": "#A3A9D090",
 		"editorMarkerNavigation.background": "#A3A9D005",
 		"editorOverviewRuler.border": "#23242D",
@@ -682,14 +682,14 @@
 		{
 			"scope": "comment",
 			"settings": {
-				"foreground": "#575B70",
+				"foreground": "#595C75",
 				"fontStyle": "italic"
 			}
 		},
 		{
 			"scope": "comment punctuation.definition.comment, string.quoted.docstring",
 			"settings": {
-				"foreground": "#575B70",
+				"foreground": "#595C75",
 				"fontStyle": "italic"
 			}
 		},
@@ -712,7 +712,7 @@
 		{
 			"scope": "variable.object.property, meta.field.declaration entity.name.function",
 			"settings": {
-				"foreground": "#84A2FF"
+				"foreground": "#81ABFF"
 			}
 		},
 		{
@@ -739,13 +739,13 @@
 				"entity.name.type.rust",
 				"entity.name.powerquery"],
 			"settings": {
-				"foreground": "#84A2FF"
+				"foreground": "#81ABFF"
 			}
 		},
 		{
 			"scope": "meta.object-literal.key, meta.object-literal.key string, support.type.property-name.json",
 			"settings": {
-				"foreground": "#84A2FF"
+				"foreground": "#81ABFF"
 			}
 		},
 		{
@@ -769,7 +769,7 @@
 		{
 			"scope": "source.css entity.name.tag",
 			"settings": {
-				"foreground": "#84A2FF"
+				"foreground": "#81ABFF"
 			}
 		},
 		{
@@ -874,7 +874,7 @@
 		{
 			"scope": "source.cs meta.method.identifier entity.name.function",
 			"settings": {
-				"foreground": "#84A2FF"
+				"foreground": "#81ABFF"
 			}
 		},
 		{
@@ -886,13 +886,13 @@
 		{
 			"scope": "source.cs storage.type",
 			"settings": {
-				"foreground": "#84A2FF"//blue?
+				"foreground": "#81ABFF"//blue?
 			}
 		},
 		{
 			"scope": "source.cs meta.method.return-type",
 			"settings": {
-				"foreground": "#84A2FF"//blue?
+				"foreground": "#81ABFF"//blue?
 			}
 		},
 		{
@@ -922,14 +922,14 @@
 		{
 			"scope": "source.python meta.member.access.python",
 			"settings": {
-				"foreground": "#84A2FF",
+				"foreground": "#E8F4FF",
 				"fontStyle": "italic"
 			}
 		},
 		{
 			"scope": "meta.block",
 			"settings": {
-				"foreground": "#84A2FF"//blue?
+				"foreground": "#81ABFF"//blue?
 			}
 		},
 		{
@@ -1019,7 +1019,7 @@
 				"support.class.component"
 			],
 			"settings": {
-				"foreground": "#EE9CFE"
+				"foreground": "#FAA0FF"
 			}
 		},
 		{
@@ -1066,7 +1066,7 @@
 				"meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#84A2FF"
+				"foreground": "#81ABFF"
 			}
 		},
 		{
@@ -1082,7 +1082,7 @@
 				"meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#EE9CFE"
+				"foreground": "#FAA0FF"
 			}
 		},
 		{
