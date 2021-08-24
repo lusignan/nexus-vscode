@@ -922,7 +922,7 @@
 		{
 			"scope": "source.python meta.member.access.python",
 			"settings": {
-				"foreground": "#C791F2",
+				"foreground": "#edb78a",
 				"fontStyle": "italic"
 			}
 		},
