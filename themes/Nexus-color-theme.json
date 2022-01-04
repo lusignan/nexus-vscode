@@ -713,7 +713,7 @@
 		{
 			"scope": "variable.object.property, meta.field.declaration entity.name.function",
 			"settings": {
-				"foreground": "#70a2ff"
+				"foreground": "#57A2FF"
 			}
 		},
 		{
@@ -740,13 +740,13 @@
 				"entity.name.type.rust",
 				"entity.name.powerquery"],
 			"settings": {
-				"foreground": "#70a2ff"
+				"foreground": "#57A2FF"
 			}
 		},
 		{
 			"scope": "meta.object-literal.key, meta.object-literal.key string, support.type.property-name.json",
 			"settings": {
-				"foreground": "#70a2ff"
+				"foreground": "#57A2FF"
 			}
 		},
 		{
@@ -770,7 +770,7 @@
 		{
 			"scope": "source.css entity.name.tag",
 			"settings": {
-				"foreground": "#70a2ff"
+				"foreground": "#57A2FF"
 			}
 		},
 		{
@@ -875,7 +875,7 @@
 		{
 			"scope": "source.cs meta.method.identifier entity.name.function",
 			"settings": {
-				"foreground": "#70a2ff"
+				"foreground": "#57A2FF"
 			}
 		},
 		{
@@ -887,13 +887,13 @@
 		{
 			"scope": "source.cs storage.type",
 			"settings": {
-				"foreground": "#70a2ff"//blue?
+				"foreground": "#57A2FF"//blue?
 			}
 		},
 		{
 			"scope": "source.cs meta.method.return-type",
 			"settings": {
-				"foreground": "#70a2ff"//blue?
+				"foreground": "#57A2FF"//blue?
 			}
 		},
 		{
@@ -930,7 +930,7 @@
 		{
 			"scope": "meta.block",
 			"settings": {
-				"foreground": "#70a2ff"
+				"foreground": "#57A2FF"
 			}
 		},
 		{
@@ -1005,7 +1005,7 @@
 				"support.function"
 			],
 			"settings": {
-				"foreground": "#6DE9F2"
+				"foreground": "#67EAEF"
 			}
 		},
 		{
