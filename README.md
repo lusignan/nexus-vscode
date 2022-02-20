@@ -4,7 +4,7 @@ A dark grey theme with shades of cyan and purple built for Python. Theme is stil
 ## Screenshots
 
 ### Python Notebook
-![Notebook Example](img/python-preview.png)
+![Notebook Example](img/notebook-preview.png)
 
 
 ### Acknowledgements
